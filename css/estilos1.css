@@ -1,0 +1,40 @@
+footer {
+    border-radius: 8px;
+	background-color:rgb(184, 192, 213);
+	height: 50%;
+  color: rgb(255, 255, 255);
+  padding: 15px;
+}
+.logord{
+    width: 20px;
+    height:20px;
+    background-color:#c7cada;
+}
+body {
+    background-image: url("./img/fondo2.jpg");
+}
+p{
+    font-family: 'Playfair Display', serif;
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+ }
+h1 {
+    font-family: 'Playfair Display', serif;   
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 25px;
+ }
+ .container-fluid {
+    background-color:rgb(184, 192, 213);
+}
+img {
+    width: 600px;
+    height: 400px;
+  }
+h2  {
+    font-family: 'Playfair Display', serif;   
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 25px;  
+}

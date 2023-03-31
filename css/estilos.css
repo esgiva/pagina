@@ -1,0 +1,36 @@
+body {
+    background-image: url("./img/fondo.jpg");
+  }
+  
+  h1 {
+    font-family: 'Playfair Display', serif;
+    
+    color: white;
+    text-align: center;
+    font-size: 10px;
+
+  }
+  img {
+    width: 450px;
+    height: 450px;
+  }
+  .p-3 {
+    font-family: 'Playfair Display', serif;
+    
+    font-size: 20px;
+    text-align: justify;
+  }
+  .logord{
+    width: 20px;
+    height:20px;
+    background-color:#c7cada;
+}
+
+
+footer {
+    border-radius: 8px;
+	background-color:#b8c0d5;
+	height: 50%;
+  color: rgb(255, 255, 255);
+  padding: 15px;
+}

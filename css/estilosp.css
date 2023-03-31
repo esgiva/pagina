@@ -1,0 +1,53 @@
+footer {
+    border-radius: 8px;
+	background-color:rgb(184, 192, 213);
+	height: 50%;
+  color: rgb(255, 255, 255);
+  padding: 15px;
+}
+.logord{
+    width: 20px;
+    height:20px;
+    background-color:#c7cada;
+}
+.container-fluid {
+    background-color:rgb(184, 192, 213);
+}
+
+body {
+    background-image: url("./img/fondo2.jpg");
+}
+
+head {
+  background-image: url("./img/fondo2.jpg");
+}
+h1 {
+    font-family: 'Playfair Display', serif;   
+    color: rgb(22, 6, 6);
+    text-align: center;
+    font-size: 25px;
+ }
+
+ p{
+    font-family: 'Playfair Display', serif;
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(22, 6, 6);
+ }
+
+ img {
+    width: 400px;
+    height: 530px;
+  }
+
+.p-3 {
+    font-family: 'Playfair Display', serif;    
+    font-size: 20px;
+    text-align: justify;
+  }
+.h1-1 {
+    font-family: 'Playfair Display', serif;   
+    color: rgb(22, 6, 6);
+    text-align: center;
+    font-size: 25px;
+ } 
